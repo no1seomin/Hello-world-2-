@@ -1,8 +1,8 @@
 # Hello-world-2-
 print hello world using iteration
 
-please note that I'm currently studying Programming language.. so please do not blame..
-It's true that I'm developer, but I don`t know any languages.. so I spend many hours studying languages a day.
+please note that I'm currently studying Programming language.. So please do not blame..
+It's true that I'm developer, but I don`t know any languages.. So I spend many hours studying languages a day.
 
 
 [print sample]
