@@ -1,5 +1,5 @@
 /* Written By ChatGPT
-Not confirmed code 
+Not confirmed code (I didn`t test it. and main class name should be changed)
 same code with Helloworld.java but using classes and methods 
 */ 
 
