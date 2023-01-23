@@ -1,4 +1,3 @@
-/* 완성된 프로젝트 아님 */
 public class HelloWorld{
 
      public static void main(String []args){
@@ -10,7 +9,11 @@ public class HelloWorld{
        {
            for(int j=0; j<alphabet.length;j++)
            {
-                System.out.println(alphabet[j]));
+               for(int z=0; z<i;z++)
+               {
+                   if(i>0) System.out.print(hello[z]);
+               }
+                System.out.println(alphabet[j]);
                 
                if(alphabet[j] == hello[i])
                {
