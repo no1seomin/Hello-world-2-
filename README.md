@@ -1,8 +1,7 @@
 # Hello-world-2-
 print hello world using iteration
 
-<print sample>
-
+[print sample]
 a
 b
 c
