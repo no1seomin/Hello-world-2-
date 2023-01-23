@@ -15,11 +15,9 @@ public class HelloWorld{
                }
                 System.out.println(alphabet[j]);
                 
-               if(alphabet[j] == hello[i])
-               {
-                    System.out.println("debug : correct");
-                   break;
-               }
+                if(alphabet[j].equals(hello[i])){
+                    break;}
+                    
                else continue;
            }
        }
